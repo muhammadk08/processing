@@ -1,0 +1,14 @@
+//basketball
+size(1000,1000);
+noFill();
+stroke(#C14848);
+strokeWeight(2);
+rect(0,0,350,500);
+arc(350,250,400,400,radians(90),radians(270));
+rect(200,212,150,75);
+ellipse(200,250,75,75);
+line(60,0,60,20);
+line(60,500,60,480);
+ellipse(327,250,20,20);
+strokeWeight(8);
+line(340,235,340,265);
